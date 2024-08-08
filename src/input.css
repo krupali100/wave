@@ -70,8 +70,40 @@ svg{
     height: 100px;
     text-align: center;
 }
-
-
+.sec-color{
+    background-color: #fcf6f0;
+}
+.span-text{
+    margin-top: 80px;
+    position: absolute;
+    margin-left: -100px;
+}
+.p-text{
+    margin-top: 100px;
+}
+.btn1{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+.sec-color2{
+    background-color: #f7f4e9;
+}
+.span-text2{
+    
+    position: absolute;
+    margin-left: 20px;
+}
+.p-text1{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.span-img1{
+    margin-top: 30px;
+}
+.span-font{
+    font-size: 50px;
+}
 @media screen and (max-width: 640px) {
     .div-text{
         margin-top: -35rem;
